@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "firebase-admin": "^13.5.0",
+    "googleapis": "^160.0.0",
+    "resend": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.1",
+    "@vercel/node": "^5.3.22",
+    "typescript": "^5.9.2"
+  }
+}
