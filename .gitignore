@@ -1,5 +1,5 @@
 .vercel
-.node_modules
+node_modules
 dist
 build
 package-lock.json
